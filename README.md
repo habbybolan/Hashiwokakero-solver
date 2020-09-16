@@ -23,4 +23,17 @@ main.c
   output: returns each island with it's final possibility (the number of bridges going up/down/left/right) left over if a solution is found.
     otherwise, solution is not found
     
+<br />
+<br />
+<br />
+    
+    
+each island's solution has the form (a,b,x,y), where 
+ - a = # of up bridges
+ - b = # of down bridges
+ - x = # of left bridges
+ - y = # of right bridges
+    
+![hashi example solution](https://github.com/habbybolan/Hashiwokakero-solver/blob/master/hashi_7x7.PNG)
+    
     
